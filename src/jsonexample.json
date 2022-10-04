@@ -1,0 +1,106 @@
+{
+    "status": "ok",
+    "totalResults": 7,
+    "articles": [
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jon Porter",
+            "title": "Apple Music to sponsor Super Bowl halftime show amidst push into sports",
+            "description": "Apple Music will sponsor next February’s Super Bowl halftime show. Super Bowl LVII is scheduled to take place on February 12th, 2023 in Glendale, Arizona.",
+            "url": "http://www.theverge.com/2022/9/23/23368143/apple-music-super-bowl-lvii-halftime-show-february-2023-sports-streaming-services",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/2PbGxcfzR2H6KFA2VqdXyb4wst0=/0x0:5885x3923/1200x628/filters:focal(3271x1549:3272x1550)/cdn.vox-cdn.com/uploads/chorus_asset/file/24047475/1413511119.jpg",
+            "publishedAt": "2022-09-23T08:38:40Z",
+            "content": "Apple Music to sponsor Super Bowl halftime show amidst push into sports\r\nApple Music to sponsor Super Bowl halftime show amidst push into sports\r\n / Its also reportedly talks to stream Sunday NFL gam… [+2472 chars]"
+        },
+        {
+            "source": {
+                "id": "news24",
+                "name": "News24"
+            },
+            "author": "Tebogo Monama",
+            "title": "Joburg woman ranked world no.1 in aerial sports after spinal injury",
+            "description": "Six years after falling and breaking her back during training, Kaitlin Rawson has not only made a remarkable recovery but is now ranked world number one in pole and aerial sports.",
+            "url": "https://www.news24.com/news24/SouthAfrica/Feel_Good/Draft/joburg-woman-ranked-world-no1-in-aerial-sports-after-spinal-injury-20220923",
+            "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/7215/5180d47167514205bf9ea06a57902a05.jpg",
+            "publishedAt": "2022-09-23T05:13:10+00:00",
+            "content": "<ul><li>Kaitlin Rawson fell off poles during practice and injured her neck and spine. </li><li>She had to relearn to walk. </li><li>Five months after her injury, she went back to the sport and is now… [+2805 chars]"
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": "Gary Davenport",
+            "title": "Mitch Trubisky Isn't Steelers' Only Problem as Loss to Browns Sheds Light on Flaws",
+            "description": "Panic isn't a word that is generally associated with the Pittsburgh\nSteelers. They are quite possibly the most stable franchise in sports. They have had three...",
+            "url": "https://bleacherreport.com/articles/10049968-mitchell-trubisky-isnt-steelers-only-problem-as-loss-to-browns-sheds-light-on-flaws",
+            "urlToImage": "https://media.bleacherreport.com/image/upload/c_fill,g_faces,w_3800,h_2000,q_95/v1663907273/litagprxw9ko4s8slvk0.jpg",
+            "publishedAt": "2022-09-23T04:52:01Z",
+            "content": "Nick Cammett/Getty Images\r\nPanic isn't a word that is generally associated with the Pittsburgh\r\nSteelers. They are quite possibly the most stable franchise in sports. They have had three head coaches… [+7042 chars]"
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": null,
+            "title": "George Pickens Blocking Drill ",
+            "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+            "url": "https://bleacherreport.com/videos/249191-george-pickens-is-underrated",
+            "urlToImage": null,
+            "publishedAt": "2022-09-15T15:07:20.3702294Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": null,
+            "title": " New Von Miller Show ",
+            "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+            "url": "https://bleacherreport.com/videos/249175-new-von-miller-show",
+            "urlToImage": null,
+            "publishedAt": "2022-09-14T20:07:17.1383973Z",
+            "content": "New Von Miller Show \r\nVon and guest Calais Campbell are talking everything from Lamar's contract to the Fournette-Parsons beef."
+        },
+        {
+            "source": {
+                "id": "the-washington-times",
+                "name": "The Washington Times"
+            },
+            "author": "The Washington Times https://www.washingtontimes.com",
+            "title": "Latest Quizzes",
+            "description": "Take a break from the hard news of the day and enjoy a quiz on entertainment, sports, history and politics only from The Washington Times.",
+            "url": "https://www.washingtontimes.com/quiz/",
+            "urlToImage": null,
+            "publishedAt": "2022-08-30T16:37:43.8583104Z",
+            "content": "Featured Quizzes\r\nTake the challenge to learn about the life and career highlights of famed nonagenarian actress and comedian Betty White.\r\n Shares \r\nRead our synopsis and correctly identify a litera… [+32510 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": null,
+            "title": "Daily Briefing",
+            "description": "The day's top stories, from sports to movies to politics to world events.",
+            "url": "https://profile.usatoday.com/newsletters/daily-briefing/",
+            "urlToImage": "https://profile.usatoday.com/newsletters/resources/usat/property/usatoday/newsletter-thumbs/8872UT-E-NLETTER02@2x.jpg",
+            "publishedAt": "2021-08-15T15:35:07+00:00",
+            "content": "The day's top stories, from sports to movies to politics to world events."
+        }
+    ]
+}
+<a className="nav-link" href="/"></a>
+ports
+business
+entertainment
+general
+health
+sciences
+sport
+technology
